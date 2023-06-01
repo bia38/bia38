@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Haby
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning statistics,economics and data science
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I just graduated from UNC Chapel Hill with statistics and data science major.
+- 🌱 I am currently working my personal projects related to Data Analytics and Data Science
 - 📫 You can reach out to me through email: Biasow38@gmail.com
 
 <!---
